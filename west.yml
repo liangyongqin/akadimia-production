@@ -6,7 +6,7 @@ manifest:
     - name: sdk
       url-base: https://github.com/liangyongqin/akadimia-sdk
 
-    projects:
-      - name: akadimia-sdk
-        remote: akadimia-sdk
-        path: akadimia-sdk
+  projects:
+    - name: akadimia-sdk
+      remote: akadimia-sdk
+      path: akadimia-sdk
