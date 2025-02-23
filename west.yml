@@ -1,0 +1,12 @@
+manifest:
+  self:
+    path: akadimia-production
+  
+  remotes:
+    - name: sdk
+      url-base: https://github.com/liangyongqin/akadimia-sdk
+
+    projects:
+      - name: akadimia-sdk
+        remote: akadimia-sdk
+        path: akadimia-sdk
